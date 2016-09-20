@@ -1,0 +1,37 @@
+ {
+	"responsive": true,
+	"description": "Journey is an intelligent classic that gives your website a sense of composure and design prowess. With clean navigation elements, beautiful white palettes and full header images, Journey helps your site  make a sophisticated splash without being over the top. Fixed navigation keeps the bulk of your content accessible, making this perfect for sites with lots of pages.",
+	"glyph-icons" : true,
+	"enableEditorJS": true,
+	"features": [
+		"responsive",
+		"css-buttons",
+		"social-icons",
+		"full-width-header",
+		"navigation-fixed",
+		"light-dark-palletes",
+		"navigation-top",
+		"color-palettes"
+	],
+	"custom-options" : [
+        {
+            "name" : "full-width",
+            "title": "Full Width",
+            "type" : "toggle",
+            "default" : true,
+			"is-body-class" : true,
+			"is-less-var" : false
+        }
+    ],
+	"header-conversions": {
+        "user-id": "80949722",
+        "site-id": "888041131513501132",
+        "page-types": {
+            "tall-header": "358158466821981867",
+            "short-header": "312536135551380943",
+            "landing": "309124208220660975",
+            "title": "107245272278507493",
+			"splash": "974156251340917503"
+        }
+    }
+}
